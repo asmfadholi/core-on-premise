@@ -1,0 +1,6 @@
+[submodule "lib/costcenter-dashboard"]
+	path = lib/costcenter-dashboard
+	url = https://asmfadholi@bitbucket.org/jojocoders/costcenter-dashboard.git
+[submodule "lib/pro-dashboard"]
+	path = lib/pro-dashboard
+	url = https://asmfadholi@bitbucket.org/jojocoders/pro-dashboard.git
